@@ -70,8 +70,7 @@ governance and risk management.
 - Gain practical experience with cybersecurity tools and concepts.
 - Build and document meaningful cybersecurity projects.
 - Strengthen my knowledge of cybersecurity governance and risk.
-- Prepare for CompTIA Security+ at a sustainable pace.
-- Secure a cybersecurity internship for Summer 2027.
+
 
 ## 🤝 Let's Connect
 
