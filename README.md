@@ -3,7 +3,7 @@
 🎓 MSc Student in IT Management at Université Laval, Canada  
 🔐 Exploring Cybersecurity | GRC, Cyber Risk & Information Security  
 🌱 Currently building my technical foundations  
-📍 Québec, Canada
+
 
 ## 👨‍💻 About Me
 
